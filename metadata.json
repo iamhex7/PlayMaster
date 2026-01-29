@@ -1,0 +1,7 @@
+{
+  "name": "AI Jubensha Host",
+  "description": "A professional AI host for scripted murder mystery games, using Gemini Live API for real-time voice interaction based on uploaded scripts.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
